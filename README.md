@@ -1,18 +1,11 @@
- COMPONENT 1
- 
- * Author: Albraa
- * Project: University Course Management System
- 
- * Description:
- * This project is a simple Java-based University Course Management System.
- * It demonstrates Object-Oriented Programming (OOP) concepts such as
- * abstraction, inheritance, encapsulation, and polymorphism.
- 
- * The system manages different types of users including Students,
- * Instructors, and Admins. Each user type has its own attributes and
- * behaviors while sharing common functionality through an abstract
- * parent class.
- 
- * The Main class is used to test the system by creating objects,
- * adding them to the user manager, and displaying their information.
 
+Group Members:
+
+[Student 1 Name] - User Management (Component 1)
+[Student 2 Name] - User Management (Component 1)
+[Student 3 Name] - Course Management (Component 2)
+[Student 4 Name] - Enrollment System (Component 3)
+[Student 5 Name] - Grade Management (Component 4)
+[Student 6 Name] - Notification System (Component 5)
+[Student 7 Name] - Reporting System (Component 6)
+[Student 8 Name] - Authentication & Data Persistence (Components 7 & 8)
