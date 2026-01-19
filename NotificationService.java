@@ -1,8 +1,8 @@
-package com.university.notifications;
+package projecgrade;
 
-public interface NotificationService {
-    void sendNotification(String recipient, String message, String type);
-    void sendEnrollmentNotification(String studentId, String courseCode, String semester);
-    void sendDropNotification(String studentId, String courseCode, String semester);
-    void sendGradeNotification(String studentId, String courseCode, String grade);
+public class NotificationService {
+
+    public void notifyStudent(String studentId, String message) {
+        System.out.println("Notification sent to Student " + studentId + ": " + message);
+    }
 }
